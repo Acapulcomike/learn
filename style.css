@@ -1,1 +1,10 @@
+*{ 
+    color: blue
+}
 
+img {
+    width: 40%
+}
+::backdrop {
+    color: black
+}
